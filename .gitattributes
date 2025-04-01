@@ -1,2 +1,2 @@
 *.largefiletype filter=lfs diff=lfs merge=lfs -text
-Cuadernos/Prácticas/rossmann_curso.csv
+Cuadernos/Prácticas/rossmann_curso.csv filter=lfs diff=lfs merge=lfs -text
